@@ -4,7 +4,8 @@
 * [Project_Nordic](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/Project_Nordic)
 * [AudioBasedGame](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/AudioBasedGame)
 * [Platformer](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/Platformer)
-* [ProjectA - FirstPersonHorror](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/ProjectA%20-%20FirstPersonHorrorGame)
+* [ProjectA - FirstPersonHorror](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/ProjectA%20-%20FirstPersonHorror)
+* [ProjectB - 2D TopDownShooter](https://github.com/MarcelvanDuijnDev/Unity_Builds/tree/main/ProjectB%20-%202D%20TopDownShooter)
 
 
 ## ScreenShots:
