@@ -1,6 +1,8 @@
-# ProjectBDemo.zip
+## ProjectBDemo.zip
 
-## tl;dr:
+## <a href="https://github.com/MarcelvanDuijnDev/Unity_Builds/raw/main/ProjectB%20-%202D%20TopDownShooter/Build%20ProjectB%20Demo.rar"> Download </a>
+
+### tl;dr:
 2D Top Down Shooter
 
 ## ScreenShots:
