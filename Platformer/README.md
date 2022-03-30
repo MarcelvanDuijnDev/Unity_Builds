@@ -1,6 +1,6 @@
 ## Platformer.zip
 
-## <a href="https://github.com/MarcelvanDuijnDev/Unity_Builds/raw/main/Platformer/Build%20Platformer.zip"> Download </a>
+## <a href="https://github.com/MarcelvanDuijnDev/Unity_Builds/raw/main/Platformer/Build%20Platformer.rar"> Download </a>
 
 ### tl;dr:
 Really small demo from an old project I was working on.
