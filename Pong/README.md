@@ -1,4 +1,4 @@
-## Project_Nordic.zip
+## Pong.zip
 
 ## <a href="https://github.com/MarcelvanDuijnDev/Unity_Builds/raw/main/Pong/Build%20Pong.rar"> Download </a>
 
